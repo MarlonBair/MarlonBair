@@ -7,7 +7,7 @@ I'm an aspiring Software Engineer and Class of 2025 CS student @ The University 
 * SWE Intern @ Rhombus Summer 2024, building an in-house Performance Monitoring System to enusre a customer-friendly experience. 
 * SWE Intern @ Bushido Summer 2023 - Spring 2024, building features to help bring together creators with their audience.
 
-## My Languages:
+## What I Commonly Use:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBair)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
