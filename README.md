@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Marlon, studying Computer Science Class of 2025 and aspiring Software Engineer.
+I'm Marlon, an aspiring Software Engineer and Class of 2025 CS student @ The University of San Francisco.
 
 ### Experience:
 
