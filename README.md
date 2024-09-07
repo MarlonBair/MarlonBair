@@ -7,6 +7,8 @@ I'm an aspiring Software Engineer and Class of 2025 CS student @ The University 
 * SWE Intern @ Rhombus Summer 2024, building an in-house Performance Monitoring System to enusre a customer-friendly experience. 
 * SWE Intern @ Bushido Summer 2023 - Spring 2024, building features to help bring together creators with their audience.
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonBair&show_icons=true&theme=radical)
+
 <!--
 **MarlonBair/MarlonBair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
