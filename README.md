@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Win, studying Computer Science Class of 2025 and aspiring Software Engineer.
+
+### Experience:
+
+* SWE Intern @ Rhombus Summer 2024
+* SWE Intern @ Bushido Summer 2023 - Spring 2024
+
 <!--
 **MarlonBair/MarlonBair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
