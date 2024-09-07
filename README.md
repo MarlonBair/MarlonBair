@@ -4,8 +4,8 @@ I'm Marlon, an aspiring Software Engineer and Class of 2025 CS student @ The Uni
 
 #### Experience:
 
-* SWE Intern @ Rhombus Summer 2024
-* SWE Intern @ Bushido Summer 2023 - Spring 2024
+* SWE Intern @ Rhombus Summer 2024, building an in-house Performance Monitoring System.
+* SWE Intern @ Bushido Summer 2023 - Spring 2024, building features to help bring together creators with their audience.
 
 <!--
 **MarlonBair/MarlonBair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
