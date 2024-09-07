@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Win, studying Computer Science Class of 2025 and aspiring Software Engineer.
+I'm Marlon, studying Computer Science Class of 2025 and aspiring Software Engineer.
 
 ### Experience:
 
