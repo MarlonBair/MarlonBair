@@ -2,7 +2,7 @@
 
 I'm an aspiring Software Engineer and Class of 2025 CS student @ The University of San Francisco.
 
-#### My Experience:
+### My Background:
 
 ![Rhombus Logo](https://assets.rhombussystems.com/favicon.ico) 
 ![Bushido Logo](https://framerusercontent.com/images/PrhYZWPvZYwhaI5JwGQA9ghRMU.png)
