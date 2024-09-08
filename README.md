@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer and Class of 2025 CS student @ The University 
 
 #### My Experience:
 
-* SWE Intern @ **Rhombus** ![Rhombus Logo]([https://example.com/images/company-logo.png](https://assets.rhombussystems.com/favicon.ico)) (Summer 2024)
+* SWE Intern @ **Rhombus** ![Rhombus Logo](https://assets.rhombussystems.com/favicon.ico) (Summer 2024)
   * Building an in-house Performance Monitoring System to support our products which keep our customers safe. 
 * SWE Intern @ **Bushido** (Summer 2023 - Spring 2024)
   * Building features to help bring creators together with their audience.
