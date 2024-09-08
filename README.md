@@ -2,7 +2,7 @@
 
 I'm an aspiring Software Engineer and Class of 2025 CS student @ The University of San Francisco.
 
-#### My Experiences:
+#### My Experience:
 
 * SWE Intern @ **Rhombus** (Summer 2024)
   * Building an in-house Performance Monitoring System to help keep our customers safe. 
