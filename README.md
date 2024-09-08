@@ -5,7 +5,7 @@ I'm an aspiring Software Engineer and Class of 2025 CS student @ The University 
 #### My Experience:
 
 * SWE Intern @ **Rhombus** (Summer 2024)
-  * Building an in-house Performance Monitoring System to help keep our customers safe. 
+  * Building an in-house Performance Monitoring System to support our products which keep our customers safe. 
 * SWE Intern @ **Bushido** (Summer 2023 - Spring 2024)
   * Building features to help bring creators together with their audience.
 
