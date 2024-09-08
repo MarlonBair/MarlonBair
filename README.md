@@ -6,7 +6,9 @@ I'm an aspiring Software Engineer and Class of 2025 CS student @ The University 
 
 ![Rhombus Logo](https://assets.rhombussystems.com/favicon.ico) 
 * SWE Intern @ **Rhombus** (Summer 2024)
-  * Building an in-house Performance Monitoring System to support our products which keep our customers safe. 
+  * Building an in-house Performance Monitoring System to support our products which keep our customers safe.
+
+![Bushido Logo](https://framerusercontent.com/images/PrhYZWPvZYwhaI5JwGQA9ghRMU.png))
 * SWE Intern @ **Bushido** (Summer 2023 - Spring 2024)
   * Building features to help bring creators together with their audience.
 
