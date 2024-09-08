@@ -1,4 +1,4 @@
-## Hi I'm Marlon 👋
+## Hi 👋 I'm Marlon
 
 I'm an aspiring Software Engineer and Class of 2025 CS student @ The University of San Francisco.
 
